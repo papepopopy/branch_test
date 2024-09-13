@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# branch_test
+branch_test
+
+
+>>>>>>> test/fastforward
 dir
 디렉터리
 
@@ -65,8 +72,12 @@ git checkout 브랜치 명 : 위치 변경
 
 git push origin 브랜치명 : 생성 브런치 반영 (지역 => 원격지)
 
+<<<<<<< HEAD
 C:\javaStudy\git_test\branch_test>code => 비주얼스튜디오 이동
 
 브랜치 병합
 fast foward 빨리감기 (main 기준)병합
 
+=======
+C:\javaStudy\git_test\branch_test>code => 비주얼스튜디오 이동
+>>>>>>> test/fastforward
