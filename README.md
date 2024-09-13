@@ -81,3 +81,10 @@ fast foward 빨리감기 (main 기준)병합
 =======
 C:\javaStudy\git_test\branch_test>code => 비주얼스튜디오 이동
 >>>>>>> test/fastforward
+브랜치 병합
+fast foward 빨리감기 (main 기준)병합
+>git merge test/fastforward
+
+C:\javaStudy\git_test\branch_test>dir
+한글 지원
+Active code page: 65001
